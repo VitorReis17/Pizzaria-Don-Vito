@@ -1,7 +1,6 @@
-
 -- =======================================
--- Objetivo: analisar o ticket médio
--- Perido: 07/2025 - 12/2025
+-- Objetivo: analisar o ticket médio por período
+-- Período: 07/2025 - 12/2025
 -- =======================================
 
 SELECT 
