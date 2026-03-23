@@ -1,4 +1,6 @@
--- Verificar pedidos com data futura
+-- =======================================
+-- Objetivo: Verificar pedidos com data futura
+-- =======================================
 
 SELECT *
    FROM pedidos

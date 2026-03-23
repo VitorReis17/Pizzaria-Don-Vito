@@ -1,5 +1,5 @@
 -- =======================================
--- Objetivo: analisar se tem pedido com valores zerados 
+-- Objetivo: Analisar se tem pedido com valores zerados 
 -- Perido: 07/2025 - 12/2025
 -- =======================================
 

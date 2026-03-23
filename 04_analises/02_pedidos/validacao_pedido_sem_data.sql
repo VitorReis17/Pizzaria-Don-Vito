@@ -1,5 +1,5 @@
 -- =======================================
--- Objetivo: validadar se tem pedido sem clientes
+-- Objetivo: Validadar se tem pedido sem clientes
 -- Perido: 07/2025 - 12/2025
 -- =======================================
 
